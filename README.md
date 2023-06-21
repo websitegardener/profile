@@ -12,7 +12,7 @@
 <span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
 <span style="color: #000080; text-decoration-color: #000080">║</span> I'm from Singapore!          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
 <span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
-<span style="color: #000080; text-decoration-color: #000080">║</span> Follow me on Twitter! <a href="https://twitter.com/yyonfai">@yyonfai/a>                          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
+<span style="color: #000080; text-decoration-color: #000080">║</span> Follow me on Twitter! <a href="https://twitter.com/yyonfai">@yyonfai/a>                         <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
 <span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
 <span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>                                            
 </pre>
