@@ -13,7 +13,5 @@
 <span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
 <span style="color: #000080; text-decoration-color: #000080">║</span> Follow me on Twitter! <a href="https://twitter.com/yyonfai">@yyonfai/a>                        <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
 <span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
-<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>                                            
+<span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>            AI / Deep Learning: I'm all about leveraging LLMs for productivity software. I've finished a nanodegree in deep learning and contributed to projects like LangChain and PySyft.                                
 </pre>
-
-AI / Deep Learning: I'm all about leveraging LLMs for productivity software. I've finished a nanodegree in deep learning and contributed to projects like LangChain and PySyft.
