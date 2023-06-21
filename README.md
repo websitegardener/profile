@@ -15,3 +15,5 @@
 <span style="color: #000080; text-decoration-color: #000080">║</span>                                                          <span style="color: #000080; text-decoration-color: #000080">║</span>                                            
 <span style="color: #000080; text-decoration-color: #000080">╚══════════════════════════════════════════════════════════╝</span>                                            
 </pre>
+
+AI / Deep Learning: I'm all about leveraging LLMs for productivity software. I've finished a nanodegree in deep learning and contributed to projects like LangChain and PySyft.
